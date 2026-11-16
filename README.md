@@ -8,4 +8,4 @@ Mô tả ngắn: dự án này làm gì.
 
 ## Công nghệ sử dụng
 - C++
-Update 
+- Update 
