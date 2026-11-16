@@ -10,5 +10,4 @@ Mô tả ngắn: dự án này làm gì.
 - C++
 
 - Test Update Readme LOCAL COMPUTER
-=======
 
